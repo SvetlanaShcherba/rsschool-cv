@@ -7,7 +7,7 @@
 - **GitHub:** @SvetlanaShcherba
 - **Telegram:** SviatlanaShch
 - **Discord:** @SvetlanaShcherba
-- **CodePen:** @SvetlanaShch
+- **CodePen:** [@SvetlanaShch](https://codepen.io/SvetlanaShch)
 
 ## About me:
 
