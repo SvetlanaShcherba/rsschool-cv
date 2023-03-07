@@ -4,7 +4,7 @@
 
 - **E-mail:** shcherba.svetlana4@gmail.com
 - **Phone:** +375445181711
-- **GitHub:** @SvetlanaShcherba
+- **GitHub:** [@SvetlanaShcherba](https://github.com/SvetlanaShcherba)
 - **Telegram:** SviatlanaShch
 - **Discord:** @SvetlanaShcherba
 - **CodePen:** [@SvetlanaShch](https://codepen.io/SvetlanaShch)
