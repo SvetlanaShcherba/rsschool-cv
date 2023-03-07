@@ -14,7 +14,8 @@
 
 ## About me:
 
-My name is Svetlana Shcherba. I am from Minsk (Republic of Belarus).
+    My name is Svetlana Shcherba. I am from Minsk (Republic of Belarus).
+
 I have a higher technical education. I graduated from Belarusian National Technical University, Faculty of Instrumentation in 2014.
 I worked as a design engineer in the Minsk Electrotechnical Plant named after V. I. Kozlov from 2014 to 2021.  
 Now I work as a freelance SMM/sales manager in the field of packaging production.
@@ -59,7 +60,8 @@ I worked as a design engineer in the Minsk Electrotechnical Plant named after V.
 ## Education:
 
 - Belarusian National Technical University
-  - Faculty of Instrumentation + IT-Academy
+  - Faculty of Instrumentation
+- IT-Academy:
   - Website development using HTML, CSS and JavaScript,
   - Development of web applications with JavaScript,
   - React for web development.
