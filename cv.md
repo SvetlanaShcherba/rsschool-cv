@@ -1,18 +1,19 @@
-#Sviatlana Shcherba
+# Sviatlana Shcherba
 
 ---
 
-##Contacts for communication:
+## Contacts for communication:
 
-    +__E-mail:__shcherba.svetlana4@gmail.com
-    +__Phone:__+375445181711
-    +__GitHub:__@SvetlanaShcherba
-    +__Telegram:__SviatlanaShch
-    +__Discord:__@SvetlanaShcherba
+- **E-mail:** shcherba.svetlana4@gmail.com
+- **Phone:** +375445181711
+- **GitHub:** @SvetlanaShcherba
+- **Telegram:** SviatlanaShch
+- **Discord:** @SvetlanaShcherba
 
 ---
 
-##About me:
+## About me:
+
 My name is Svetlana Shcherba. I am from Minsk (Republic of Belarus).
 I have a higher technical education. I graduated from Belarusian National Technical University, Faculty of Instrumentation in 2014.
 I worked as a design engineer in the Minsk Electrotechnical Plant named after V. I. Kozlov from 2014 to 2021.  
@@ -22,17 +23,17 @@ I want to gain experience and knowledge in the field of front-end development, a
 
 ---
 
-##Tech Skills:
+## Tech Skills:
 
-    +HTML5
-    +CSS3
-    +JavaScript
-    +React.js
-    +GIT
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- GIT
 
 ---
 
-##Code examples:
+## Code examples:
 
 ```
 var countBits = function(n) {
@@ -49,21 +50,23 @@ var countBits = function(n) {
 
 ---
 
-##experience:
+## experience:
+
 I worked as a design engineer in the Minsk Electrotechnical Plant named after V. I. Kozlov from 2014 to 2021.
 
 ---
 
-##Education:
-+Belarusian National Technical University
--Faculty of Instrumentation + IT-Academy
--Website development using HTML, CSS and JavaScript,
--Development of web applications with JavaScript,
--React for web development.
+## Education:
+
+- Belarusian National Technical University
+  - Faculty of Instrumentation + IT-Academy
+  - Website development using HTML, CSS and JavaScript,
+  - Development of web applications with JavaScript,
+  - React for web development.
 
 ---
 
-##Languages:
+## Languages:
 
-    +Russian - Native
-    +English - Pre-Intermediate
+- Russian - Native
+- English - Pre-Intermediate
