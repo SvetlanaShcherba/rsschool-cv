@@ -1,7 +1,5 @@
 # Sviatlana Shcherba
 
----gi
-
 ## Contacts for communication:
 
 - **E-mail:** shcherba.svetlana4@gmail.com
@@ -9,6 +7,7 @@
 - **GitHub:** @SvetlanaShcherba
 - **Telegram:** SviatlanaShch
 - **Discord:** @SvetlanaShcherba
+- **CodePen:** @SvetlanaShch
 
 ## About me:
 
