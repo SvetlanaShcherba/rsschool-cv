@@ -53,3 +53,8 @@ I worked as a design engineer in the Minsk Electrotechnical Plant named after V.
   - Website development using HTML, CSS and JavaScript,
   - Development of web applications with JavaScript,
   - React for web development.
+
+## Languages:
+
+- Russian - Native
+- English - Pre-Intermediate
