@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+  <header class="header">
+    <nav class="Nav_menu">
+      <ul>
+        <li class="Nav_active Nav_item" >
+          <a href="#contacts">Contacts</a>
+        </li>
+        <li class="Nav_item">
+          <a href="#summary">Summary</a>
+        </li>
+        <li class="Nav_item">
+            <a href="#skills" title="To section Help ">Skills</a>
+        </li>
+        <li class="Nav_item">
+            <a href="#projects">Projects</a>
+        </li>
+        <li class="Nav_item">
+          <a href="#code">Code</a>
+        </li>
+        <li class="Nav_item">
+          <a href="#education">Education</a>
+        </li>
+        <li class="Nav_item">
+          <a href="#languages">Languages</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  <main class="main-section">
+    <div class="main-content-section">
+      <div class="about-me-section">
+        <h2 class="about-me-profession">Front-End Developer</h2>
+        <h1 class="about-me-name"  id = "summary">Sviatlana Shcherba</h1>
+        <p class="about-me-description">My name is Svetlana Shcherba. I am from Minsk (Republic of Belarus).
+          I have a higher technical education. I graduated from Belarusian National Technical University, Faculty of Instrumentation in 2014.
+          I worked as a design engineer in the Minsk Electrotechnical Plant named after V. I. Kozlov from 2014 to 2021.
+          Now I work as a freelance SMM/sales manager in the area of packaging production.
+          I have basic knowledge of 3d modeling. I also passed through several courses at IT-Academy in Minsk from May 2022 to February 2023:
+          My skills include HTML, CSS, JavaScript, React.
+          I would like to gain experience in these areas. I  work on my coding and English skills every day.
+        </p>
+      </div>
+      <div class="my-projects-section" id = "projects">
+        <h3 class="main-content-title">Projects</h3>
+        <ol class="my-projects-list">
+          <li class="my-projects-item">
+            <span class="my-projects-text">
+              <a href="https://mellow-jelly-7f2349.netlify.app" class="my-projects-link">https://mellow-jelly-7f2349.netlify.app/</a>
+              .....................................................................
+              <span class="my-projects-bracket">[</span> HTML5, CSS3 <span class="my-projects-bracket">]</span>
+            </span>
+          </li>
+          <li class="my-projects-item">
+            <span class="my-projects-text">
+              <a href="https://eloquent-klepon-cf3684.netlify.app" class="my-projects-link">https://eloquent-klepon-cf3684.netlify.app</a>
+              ....................................................................
+              <span class="my-projects-bracket">[</span> JavaScript <span class="my-projects-bracket">]</span>
+            </span>
+          </li>
+
+          <li class="my-projects-item">
+            <span class="my-projects-text">
+              <a href="https://svetlanashcherba.github.io/virtual-keyboard/" class="my-projects-link">https://svetlanashcherba.github.io/virtual-keyboard/</a>
+              ......................................................
+              <span class="my-projects-bracket">[</span> JavaScript<span class="my-projects-bracket">]</span>
+            </span>
+          </li>
+
+          <li class="my-projects-item">
+            <span class="my-projects-text">
+              <a href="https://rolling-scopes-school.github.io/svetlanashcherba-JSFE2023Q1/minesweeper/" class="my-projects-link">https://rolling-scopes-school.github.io/svetlanashcherba-JSFE2023Q1/minesweeper/</a>
+              ..
+              <span class="my-projects-bracket">[</span> JavaScript<span class="my-projects-bracket">]</span>
+            </span>
+          </li>
+
+          <li class="my-projects-item">
+            <span class="my-projects-text">
+              <a href="https://github.com/SvetlanaShcherba?tab=repositories" class="my-projects-link">https://github.com/SvetlanaShcherba?tab=repositories/</a>
+              .....................................
+              <span class="my-projects-bracket">[</span> repository Github<span class="my-projects-bracket">]</span>
+            </span>
+          </li>
+        </ol>
+      </div>
+      <div class="my-code-section" id = "code">
+        <h3 class="main-content-title">Code</h3>
+        <pre>
+          var countBits = function(n) {
+            var counter=0;
+            let binaryNum=n.toString(2);
+            for (let char of binaryNum) {
+              if ( char==1 ){
+                counter=counter+1;
+              };
+            };
+            return counter;
+          };
+        </pre>
+      </div>
+      <div>
+        <h3 class="main-content-title">Work Experience</h3>
+        <div class="my-work-experience-company-block">
+          <h4 class="my-work-experience-position">Design engineer <span class="my-work-experience-company">Minsk
+            Electrotechnical Plant named after V. I. Kozlov</span> </h4>
+          <p class="my-work-experience-period">August 2014 - June 2021 <span class="my-work-experience-divider">|</span>
+            Republic of Belarus</p>
+        </div>
+      </div>
+      <div class="my-education-section" id = "education">
+        <h3 class="main-content-title" >Education</h3>
+
+        <h4 class="my-education-place">IT-Academy</h4>
+        <ul class="my-education-list">
+          <li class="my-education-item">Website development using HTML, CSS and JavaScript</li>
+          <li class="my-education-item">Development of web applications with JavaScript</li>
+          <li class="my-education-item">React for web development</li>
+        </ul>
+        <p class="my-education-period">May 2022 - February 2023 <span class="my-education-divider">|</span> Republic of
+          Belarus</p><br>
+        
+        <h4 class="my-education-place">The Rolling Scopes school</h4>
+        <ul class="my-education-list">
+          <li class="my-education-item">"JavaScript/Front-end". Stage 1.</li>
+        </ul>
+        <p class="my-education-period">March 2023 - June 2023 <span class="my-education-divider">|</span> Republic of
+          Belarus</p><br>
+        
+        <h4 class="my-education-place">Belarusian National Technical University</h4>
+        <h5 class="my-education-speciality">Faculty of Instrumentation</h5>
+        <p class="my-education-period">September 2008 - June 2014 <span class="my-education-divider">|</span> Republic of Belarus</p>
+      </div>
+    </div>
+    <aside class="sidebar-section">
+        <img class="image" src="img/foto.jpg" alt="my photo">
+        <div class="contacts-section" id = "contacts">
+          <h3 class="sidebar-title">Contacts</h3>
+          <div>
+              <span class="contacts-section-type">C:</span>
+              <a class="contacts-section-link" href="tel:+375445181711">+375 44 518 17 11</a>
+          </div>
+          <div>
+            <span class="contacts-section-type">E:</span>
+            <a class="contacts-section-link" href=shcherba.svetlana4@gmail.com>shcherba.svetlana4@gmail.com</a>
+          </div>
+        </div>
+        <div class="tech-skills-section" id = "skills">
+          <h3 class="sidebar-title">Tech Skills</h3>
+          <ul class="tech-skills-list">
+            <li class="tech-skills-item"> <span class="tech-skills-item-text">HTML5</span> </li>
+            <li class="tech-skills-item"> <span class="tech-skills-item-text">CSS3</span></li>
+            <li class="tech-skills-item"> <span class="tech-skills-item-text">JavaScript</span></li>
+            <li class="tech-skills-item"> <span class="tech-skills-item-text">React.js</span></li>
+            <li class="tech-skills-item"> <span class="tech-skills-item-text">GIT</span></li>
+            <li class="tech-skills-item"> <span class="tech-skills-item-text">WebPack</span></li>
+          </ul>
+        </div>
+        <div class="Languages-section" id = "languages">
+          <h3 class="sidebar-title">Languages</h3>
+          <ul class="Languages-list">
+            <li class="Languages-item"> <span class="Languages-item-text">Russian - Native</span></li>
+            <li class="Languages-item"> <span class="Languages-item-text">English (Pre-Intermediate)</span></li>
+          </ul>
+        </div>
+    </aside>
+  </main>
+  <footer>
+    <a href="https://rs.school/js/" class="footer-logo"><img src="img/logo.png" width="150" alt="Лого"></a>
+    <a href="https://github.com/SvetlanaShcherba" class="footer-author">SvetlanaShcherba 2023</a>
+  </footer>
+</body>
+</html>
